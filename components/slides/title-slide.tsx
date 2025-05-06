@@ -94,7 +94,7 @@ export default function TitleSlide() {
             transition={{ delay: 1.7, duration: 0.5 }}
             className="mb-2 font-medium"
           >
-            Előadó: [Neved]
+            Előadó: Omar Abusahmoud
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -102,7 +102,7 @@ export default function TitleSlide() {
             transition={{ delay: 1.9, duration: 0.5 }}
             className="text-white/70"
           >
-            Tanszék / TDK témavezető: [pl. Műszaki Informatikai Intézet / Témavezető neve]
+            Tanszék / témavezető: Dr. Falucskai Janos
           </motion.p>
         </div>
       </motion.div>
